@@ -11,4 +11,4 @@ Version No.: 5.8.1
 POC:wordpress.com/wp admin/admin.php？page=pp-notif-log
 
 
-![](img_url)( https://github.com/fankeqw/publishpreess/projects/2/pubg.png)
+![](img_url)( https://github.com/fankeqw/publishpreess/blob/main/plugish.png?raw=true)
